@@ -313,6 +313,15 @@ i {
   background: #02B875;
 }
 
+/* line 158, ../sass/style.scss */
+.icon-goodreads {
+  color: #382110;
+}
+
+/* line 159, ../sass/style.scss */
+.icon-goodreads:hover {
+  background: #382110;
+}
 
 
 
